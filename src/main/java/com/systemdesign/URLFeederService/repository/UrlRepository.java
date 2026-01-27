@@ -1,6 +1,6 @@
 package com.systemdesign.URLFeederService.repository;
 
-import com.systemdesign.URLFeederService.entity.Url;
+import com.systemdesign.URLFeederService.model.Url;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
